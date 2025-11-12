@@ -1,5 +1,7 @@
-# codespaces-quickstart
-Get started with Rasa in the browser using GitHub Codespaces.
+# CatBot example
+This is an example created for the HICoDE course.
+
+If you would like to run the chatbot, please follow the steps below. It is recommended to use GitHub codespaces.
 
 ### Steps
 
@@ -21,13 +23,6 @@ Get started with Rasa in the browser using GitHub Codespaces.
      source .venv/bin/activate
      ```
 
-3. **Initialize a New Project:**
-   - In the terminal, run:
-     ```
-     rasa init --template tutorial
-     ```
-     and follow the instructions.
-
 4. **Train the Model:**
    - In the terminal, run:
      ```
@@ -41,10 +36,3 @@ Get started with Rasa in the browser using GitHub Codespaces.
      ```
      GitHub will show a notification, click on the green button to view the inspector where you can chat with your assistant.
 
-6. **Run Custom Actions:**
-  In Rasa 3.10 and later, custom actions are automatically run as part of your running assistant. To double-check that this is set up correctly, ensure that your `endpoints.yml` file contains the following configuration:
-   ```
-   action_endpoint:
-      actions_module: "actions" # path to your actions package
-    ```
-   Then re-run your assistant via `rasa inspect` every time you make changes to your custom actions.
