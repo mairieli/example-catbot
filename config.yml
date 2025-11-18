@@ -1,5 +1,6 @@
 recipe: default.v1
 language: en
+assistant_id: example-catbot
 pipeline:
 - name: SingleStepLLMCommandGenerator
   llm:
@@ -10,4 +11,3 @@ pipeline:
 policies:
 - name: FlowPolicy
 - name: EnterpriseSearchPolicy
-assistant_id: 20250326-233927-grating-jack

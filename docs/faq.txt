@@ -1,41 +1,74 @@
-How can I open an account with your bank?
-You have two convenient options to open an account: visit any of our branches and speak with a representative who will guide you through the process, or complete an online application through our website, which allows you to open an account from the comfort of your home.
-What documents do I need to provide to open an account?
-To open an account, you'll need to provide a valid form of identification, such as a driver's license or passport, proof of your current address, such as a utility bill or lease agreement, and your Social Security number.
-What are the fees associated with opening an account?
-We're pleased to offer account opening with no fees associated, making it easy and affordable to start banking with us.
-How can I check my account balance?
-You can conveniently check your account balance anytime by logging into your online banking account, where you'll find up-to-date information, or by calling our customer service line, where a representative will be happy to assist you.
-How can I transfer money between my accounts?
-Transferring money between your accounts is simple and can be done through your online banking account by following the easy transfer instructions or by calling our customer service line, where a representative will guide you through the process.
-How can I send money to someone else?
-Sending money to others is convenient and can be done through your online banking account, where you can initiate a transfer, or by calling our customer service line for assistance.
-What are the fees associated with sending money?
-There are no fees for sending money to another account within our bank, allowing you to transfer funds easily and free of charge. However, a fee may apply for sending money to an account at a different bank.
-How can I reset my password?
-If you've forgotten your password, don't worry! Simply click on the "Forgot Password" link on the login page, and you'll be guided through the steps to reset your password and regain access to your account.
-What should I do if I think my account has been hacked?
-If you suspect that your account has been hacked, it's crucial to contact our customer service line immediately. Our representatives are available 24/7 to assist you and take necessary steps to secure your account and protect your funds.
-How can I close my account?
-You can close your account by visiting any of our branches and speaking with a representative or by calling our customer service line. We'll guide you through the process and ensure a smooth account closure.
-What happens to my money when I close my account?
-When you close your account, we'll ensure that your remaining balance is transferred to the account of your choice, providing you with control and flexibility over your funds.
-How can I dispute a transaction on my account?
-To dispute a transaction, log into your online banking account and navigate to the dispute section, where you can submit a dispute form. Alternatively, you can call our customer service line, and a representative will assist you in initiating the dispute process.
-What are the fees associated with disputing a transaction?
-We don't charge any fees for disputing a transaction, as we want to make it easy for you to address any concerns you may have about your account activity.
-How long does it take to resolve a dispute?
-The time to resolve a dispute can vary depending on the nature of the transaction and the investigation required. However, we strive to resolve disputes as quickly as possible, and it typically takes 10-15 business days.
-What should I do if I am not satisfied with the resolution of my dispute?
-If you're not satisfied with the resolution of your dispute, please don't hesitate to contact our customer service line. We're committed to your satisfaction and will work with you to address any remaining concerns.
-How can I protect my account from fraud?
-You can protect your account from fraud by taking several proactive measures, including using a strong and unique password, enabling two-factor authentication for an extra layer of security, and being vigilant against phishing scams by never sharing your personal or account information with unknown sources.
-What should I do if I think I am a victim of fraud?
-If you believe you're a victim of fraud, it's crucial to contact our customer service line immediately. Our representatives are trained to assist you in such situations and will take the necessary steps to protect your account and investigate the fraudulent activity.
-What are the hours of operation for your customer service line?
-Our customer service line is available 24/7, ensuring that you can always reach us for assistance, regardless of the time or day.
-How can I contact your customer service line?
-You can reach our customer service line through multiple channels: by phone, email, or chat. Choose the method that's most convenient for you, and we'll be happy to assist you.
-What is your bank's website address?
-Our bank's website address is [Bank's website address]. You can find a wealth of information about our products, services, and resources on our website.
+Q: What is a domestic cat?
+A: A domestic cat is a small carnivorous mammal that has lived with humans for thousands of years. It belongs to the species Felis catus and is kept both as a companion animal and as a pest controller.
 
+Q: Where do domestic cats come from?
+A: Genetic studies indicate that domestic cats originate from the Near Eastern wildcat, Felis lybica. Evidence from archaeology shows early domestication in the Middle East, where cats lived near early farming communities.
+
+Q: Why did early human societies keep cats?
+A: Cats were useful for controlling rodents near stored grain. Over time, they became tolerated and later welcomed in homes. Their behaviour also made them suitable companions.
+
+Q: When did cats start to appear in households?
+A: Domesticated cats appear in archaeological sites dating back roughly nine thousand years. In ancient Egypt they were widely admired and appear frequently in art and burial sites.
+
+Q: How did cats spread worldwide?
+A: Cats travelled along trade routes on ships, where they helped control rodents. This allowed them to reach Europe, Asia and later the Americas.
+
+Q: Are all cats part of the same species?
+A: Yes. Despite the many varieties seen today, all domestic cats belong to Felis catus.
+
+Q: What is a cat breed?
+A: A cat breed is a group of cats with consistent physical traits that result from selective breeding or natural isolation. Examples include differences in coat length, colour patterns, ear shape or tail form.
+
+Q: How many cat breeds exist?
+A: The exact number differs across registries. Each registry recognises its own set of breeds. New breeds can also be proposed and evaluated.
+
+Q: What makes breeds different from ordinary mixed cats?
+A: Breeds have recorded ancestry and defined traits that appear reliably in offspring. Mixed cats do not follow an organised breeding programme.
+
+Q: Are some breeds naturally occurring?
+A: Yes. Some breeds arise from local populations that developed their traits without deliberate breeding by humans. Others were created through structured programmes.
+
+Q: Do breeds differ in behaviour?
+A: Some breeds show typical behavioural tendencies, such as higher activity or stronger social behaviour with humans. These traits are not absolute and can vary by individual.
+
+Q: Do breeds have different grooming needs?
+A: Yes. Long haired breeds need more frequent brushing to prevent matting. Short haired breeds usually require less maintenance.
+
+Q: Do breeds vary in health concerns?
+A: Some breeds carry inherited conditions that require screening. Mixed cats can also develop health issues, but certain conditions show higher frequency in specific breeds.
+
+Q: What is the Ragdoll breed?
+A: The Ragdoll is a large cat with a colour point coat pattern and blue eyes. It is known for calm behaviour and a semi long coat.
+
+Q: What is the Maine Coon?
+A: The Maine Coon is one of the largest domestic breeds. It has a heavy coat suitable for cold climates and is known for friendly behaviour.
+
+Q: What is the British Shorthair?
+A: The British Shorthair has a round face, dense coat and muscular body. It tends to have a steady and relaxed temperament.
+
+Q: What is the Siamese cat?
+A: The Siamese has a slender body, short coat and striking colour point pattern with blue eyes. It is often vocal and strongly attached to human companions.
+
+Q: What is a natural breed?
+A: A natural breed develops within a region without extensive human design. The traits appear through local adaptation. Examples include the Turkish Van and the Norwegian Forest Cat.
+
+Q: Are mixed breed cats healthy?
+A: Many mixed breed cats are healthy and live long lives. Diversity in ancestry can reduce the chance of certain inherited conditions.
+
+Q: How long do cats live?
+A: Indoor cats often live between twelve and eighteen years, and many reach their twenties. Lifespan can vary by health, environment and care.
+
+Q: Are cats social animals?
+A: Cats can form strong bonds with humans and other animals. Some prefer more independence, while others seek frequent interaction.
+
+Q: What do cats eat?
+A: Cats are obligate carnivores. They require nutrients found in animal protein. Commercial cat food is formulated to meet these needs.
+
+Q: Why do cats purr?
+A: Cats purr in various situations, such as during relaxation or when seeking comfort. Purring can also occur when a cat is stressed and trying to self soothe.
+
+Q: How do cats communicate?
+A: Cats use vocal sounds, body posture, tail movement, ear position and scent signals to communicate with humans and other animals.
+
+Q: Why do some cats have long hair and others short hair?
+A: Coat length is influenced by genetic factors. Selective breeding and natural adaptation both shaped coat variation.
