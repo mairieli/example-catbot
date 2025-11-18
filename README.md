@@ -1,4 +1,7 @@
-# Implementing RAG in Rasa with Faiss and OpenAI
+# CatBot example
+This is an example created for the HICoDE course. 
+
+If you would like to run the chatbot, please follow the steps below. It is recommended to use GitHub codespaces.
 
 ### Steps
 
